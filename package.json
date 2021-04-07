@@ -1,0 +1,22 @@
+{
+  "name": "image-to-markdown",
+  "version": "1.0.0",
+  "description": "Tool that converts an image of a document to a markdown file.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lofaloa/image-to-markdown.git"
+  },
+  "author": "Logan Farci",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lofaloa/image-to-markdown/issues"
+  },
+  "homepage": "https://github.com/Lofaloa/image-to-markdown#readme",
+  "dependencies": {
+    "@google-cloud/vision": "^2.3.1"
+  }
+}
