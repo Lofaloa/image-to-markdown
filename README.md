@@ -8,5 +8,3 @@ Tool that converts an image of a document to a markdown file.
 - [Amazon Rekognition](https://docs.aws.amazon.com/rekognition/latest/dg/text-detection.html).
 
 I might go with the Google service. This seems super straight forward.
-
-## Service output to markdown
